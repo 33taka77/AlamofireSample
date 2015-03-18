@@ -17,6 +17,7 @@
 		81D6ECB51AB9383200A30E43 /* AlamofireSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D6ECB41AB9383200A30E43 /* AlamofireSampleTests.swift */; };
 		81D6ECBF1AB9385800A30E43 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D6ECBE1AB9385800A30E43 /* Alamofire.swift */; };
 		81D6ECC11AB93D1000A30E43 /* podfile in Resources */ = {isa = PBXBuildFile; fileRef = 81D6ECC01AB93D1000A30E43 /* podfile */; };
+		F9C63E8C1AB9A35D00F11371 /* ThumbnailCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C63E8B1AB9A35D00F11371 /* ThumbnailCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		81D6ECBE1AB9385800A30E43 /* Alamofire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alamofire.swift; sourceTree = "<group>"; };
 		81D6ECC01AB93D1000A30E43 /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
 		D33B0CF60EA3DA8E263A2AA2 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		F9C63E8B1AB9A35D00F11371 /* ThumbnailCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThumbnailCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				81D6ECBE1AB9385800A30E43 /* Alamofire.swift */,
 				81D6EC9B1AB9383200A30E43 /* AppDelegate.swift */,
 				81D6ECA01AB9383200A30E43 /* ViewController.swift */,
+				F9C63E8B1AB9A35D00F11371 /* ThumbnailCollectionViewCell.swift */,
 				81D6ECA21AB9383200A30E43 /* Main.storyboard */,
 				81D6ECA51AB9383200A30E43 /* Images.xcassets */,
 				81D6ECA71AB9383200A30E43 /* LaunchScreen.xib */,
@@ -300,6 +303,7 @@
 				81D6ECA11AB9383200A30E43 /* ViewController.swift in Sources */,
 				81D6EC9F1AB9383200A30E43 /* AlamofireSample.xcdatamodeld in Sources */,
 				81D6ECBF1AB9385800A30E43 /* Alamofire.swift in Sources */,
+				F9C63E8C1AB9A35D00F11371 /* ThumbnailCollectionViewCell.swift in Sources */,
 				81D6EC9C1AB9383200A30E43 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
